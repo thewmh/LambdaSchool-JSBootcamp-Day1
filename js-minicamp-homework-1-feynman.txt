@@ -1,0 +1,9 @@
+A variable(var) is a where you put useful values. Example: var name = ‘My Name’
+
+A string is text
+
+A function is a reusable block of code
+
+if statements check if something is true or false. Depending on which answer your code is looking for, it will either tell the script to stop or keep checking
+
+Boolean values (true, false) check whether an (if statement) is true or false
